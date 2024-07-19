@@ -20,8 +20,8 @@
 
 -   서로 자극을 받으면서 열심히 공부하는 분위기 만들기
 
--   책: 코딩테스트 합격자 되기 - 자바스크립트 편
-    ![코딩테스트 합격자 되기 - 자바스크립트 편](https://github.com/user-attachments/assets/75fe1374-a825-4e81-97e1-7e25f5a0ad5c)
+책: 코딩테스트 합격자 되기 - 자바스크립트 편(없어도 괜찮습니다)
+![코딩테스트 합격자 되기 - 자바스크립트 편](https://github.com/user-attachments/assets/75fe1374-a825-4e81-97e1-7e25f5a0ad5c)
 
 ## git 관리
 
